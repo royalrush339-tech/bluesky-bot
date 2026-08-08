@@ -1,7 +1,7 @@
 import os, json, datetime, urllib.request
 
 HANDLE = "gravitaquotidiano.bsky.social"
-APP_PASSWORD = os.environ["BSKY_APP_PASSWORD"]
+APP_PASSWORD = znai-uqom-eh7n-ltmq
 
 QUOTES = [
 "Il soffitto era la sua mappa dell'inerzia.",
